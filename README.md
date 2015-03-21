@@ -28,10 +28,10 @@ Analysis of android or java
 
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
-| Android view                                       |   kachidoki     shidm  |        |
+| Android view                                       |   kachidoki       |        |
 | Java以及Android网络请求（TCP,UDP,HTTP)             |          |        |
 | Android图片处理                                    |          |        |
-| Android多媒体开发                                  |          |        |
+| Android多媒体开发                                  | shidm         |        |
 | Java类集框架原理以及实现                           |          |        |
 | Java并发(多线程等)                                 |          |        |
 | NDK                                                |          |        |
